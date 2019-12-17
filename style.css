@@ -581,7 +581,7 @@
 	.feature-wrapper {
 		z-index: 1;
 		display: block;
-		padding: 50px 0 40px 0;
+		padding: 100px 0 40px 0;
 		position: relative;
 		background-color: #F7F7F7;
 	}
@@ -950,7 +950,7 @@
 	
 	.about-wrapper {
 		display: block;
-		padding: 50px 0;
+		padding: 100px 0;
 		position: relative;
 		background-color: #FFF;
 	}
@@ -1500,7 +1500,7 @@
 	.team-wrapper {
 		z-index: 1;
 		display: block;
-		padding: 10px 0 50px 10px;
+		padding: 100px 0 50px 10px;
 		position: relative;
 		background-color: #fff;
 	}
@@ -1622,7 +1622,7 @@
 	
 	.contact-wrapper {
 		display:block;
-		padding:70px 0;
+		padding:100px 0;
 		position:relative;
 		background-color:#fff;
 	}
