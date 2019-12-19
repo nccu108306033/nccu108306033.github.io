@@ -2658,5 +2658,10 @@
 	21. CUSTOM CSS SECTION
 	################################################################# */
 
-		
-	
+
+@media screen and (min-width: 992px) {
+	.space::before {
+		content: '';
+		display: block;
+	}
+}
